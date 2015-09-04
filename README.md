@@ -1,2 +1,0 @@
-# OpenGL_SolarSystem
-LearnOpenGL_SolarSystem_ProOpebGLES_Book
